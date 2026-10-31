@@ -14,9 +14,9 @@
 - Piano moving service
 
 ## Guides
+- [best moving company Round Rock for your home move](https://local-business-guides.github.io/mountain-movers-round-rock/best-moving-company-round-rock/): Compare the best moving company Round Rock options and plan a more organized move in Round Rock.
 - [How to Choose a Round Rock Moving Company](https://local-business-guides.github.io/mountain-movers-round-rock/round-rock-moving-company/): Plan your Round Rock move with a round rock moving company that can help with homes, businesses, pianos, and storage.
 - [Choosing a Moving Company in Round Rock](https://local-business-guides.github.io/mountain-movers-round-rock/moving-company-in-round-rock/): Find practical help for your Round Rock move with a moving company in Round Rock offering residential, commercial, piano, and storage services.
-- [best moving company Round Rock for your home move](https://local-business-guides.github.io/mountain-movers-round-rock/best-moving-company-round-rock/): Compare the best moving company Round Rock options and plan a more organized move in Round Rock.
 - [best moving company in round rock for a home move](https://local-business-guides.github.io/mountain-movers-round-rock/best-moving-company-in-round-rock/): Find the best moving company in round rock for practical help planning your Round Rock move.
 - [How to choose a moving company near me in Round Rock](https://local-business-guides.github.io/mountain-movers-round-rock/moving-company-near-me/): Find a moving company near me for a more organized move in Round Rock, Texas.
 - [Choosing a local moving company Round Rock residents can call](https://local-business-guides.github.io/mountain-movers-round-rock/local-moving-company-round-rock/): Plan a smoother household move with a local moving company Round Rock homeowners can reach.
@@ -25,6 +25,9 @@
 - [Choosing a Mover Company Near Me in Round Rock](https://local-business-guides.github.io/mountain-movers-round-rock/mover-company-near-me/): Find a mover company near me for home, business, or piano moving help in Round Rock, Texas.
 - [Your Guide to Hiring a Mover Round Rock Homeowners Can Call](https://local-business-guides.github.io/mountain-movers-round-rock/mover-round-rock/): Plan a smoother home move with a mover Round Rock residents can call for local, long-distance, and piano moving help.
 
+## Newsroom
+- [Mountain Movers Releases Guide to Finding the Best Moving Company in Round Rock](https://local-business-guides.github.io/mountain-movers-round-rock/news/2026-10-31-mountain-movers-releases-guide-to-finding-the-best/): Mountain Movers published a guide for Round Rock residents comparing movers, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-31)
+
 ## Pages
 - [Round Rock Moving Company in Texas](https://local-business-guides.github.io/mountain-movers-round-rock/): Get practical moving help for your home or business in Round Rock, with support for local and long-distance moves. Call +1737-381-1968.
 - [About Mountain Movers in Round Rock](https://local-business-guides.github.io/mountain-movers-round-rock/about/): About Mountain Movers, Round Rock.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/mountain-movers-round-rock/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/mountain-movers-round-rock/news/rss.xml)
 - [Main resource site](https://mountain-movers-round-rock-local.localwebsites.chatgpt.site)

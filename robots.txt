@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/mountain-movers-round-rock/sitemap.xml
+Sitemap: https://local-business-guides.github.io/mountain-movers-round-rock/news-sitemap.xml
